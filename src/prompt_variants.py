@@ -65,4 +65,4 @@ Return ONLY the JSON object, no other text.
 
 # The winner gets written here by optimize_prompts.py after comparison.
 # Until Part 6 runs, this defaults to the baseline.
-WINNING_PROMPT = PROMPT_V1_BASELINE
+WINNING_PROMPT = PROMPT_V3_SAFETY_FRAMED

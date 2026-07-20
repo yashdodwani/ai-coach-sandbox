@@ -1,0 +1,162 @@
+[
+  {
+    "player_id": "P01",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.67,
+      "actionability": 4.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice is perfectly grounded in the provided stats and identifies a specific weakness with its exact timing value."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it could be more specific about the target timing improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice accurately uses the player's specific shot counts and timing values to provide a clear, data-driven target for improvement."
+      }
+    ]
+  },
+  {
+    "player_id": "P02",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.0,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it is relatively brief."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it is slightly generic in its instruction."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses the player's favorite shot and timing value, but it is generic and lacks a concrete training drill or corrective action."
+      }
+    ]
+  },
+  {
+    "player_id": "P03",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and uses the exact timing value from the profile, while providing a concrete area for improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the accurate timing value from the profile, though it lacks a specific drill to act upon."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses all provided statistics but offers generic direction to 'address' weaknesses rather than providing a concrete training drill or technical adjustment."
+      }
+    ]
+  },
+  {
+    "player_id": "P04",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.33,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the specific weak zone and timing value from the profile, though the suggested remedy (footwork) is somewhat generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice accurately uses the player's weak zone and timing data, though it is somewhat repetitive and lacks a specific drill to improve the timing."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the timing value for the cut shot, though it is somewhat generic in its instruction to 'continue using' a strength."
+      }
+    ]
+  },
+  {
+    "player_id": "P05",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and timing value from the profile, though the suggested remedy (footwork) is a bit generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and uses the exact timing value from the profile, though it could be more specific about how to improve that timing."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses the hook timing and identifies the cover drive as a weakness, but 'tabilizing' is a vague instruction that lacks a concrete drill or technical adjustment."
+      }
+    ]
+  }
+]

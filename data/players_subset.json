@@ -1,0 +1,77 @@
+[
+  {
+    "player_id": "P01",
+    "shots_faced": 116,
+    "favourite_shot": "sweep",
+    "avg_bat_speed_kmh": 91.5,
+    "timing_consistency": 0.6,
+    "shot_breakdown": {
+      "straight_drive": {"count": 13, "avg_timing": 0.74},
+      "hook": {"count": 38, "avg_timing": 0.65},
+      "pull": {"count": 28, "avg_timing": 0.57},
+      "cover_drive": {"count": 10, "avg_timing": 0.36},
+      "flick": {"count": 17, "avg_timing": 0.63},
+      "sweep": {"count": 10, "avg_timing": 0.66}
+    },
+    "weak_zones": ["cover_drive", "pull"]
+  },
+  {
+    "player_id": "P02",
+    "shots_faced": 150,
+    "favourite_shot": "sweep",
+    "avg_bat_speed_kmh": 80.3,
+    "timing_consistency": 0.58,
+    "shot_breakdown": {
+      "sweep": {"count": 34, "avg_timing": 0.82},
+      "cut": {"count": 32, "avg_timing": 0.57},
+      "cover_drive": {"count": 18, "avg_timing": 0.4},
+      "flick": {"count": 40, "avg_timing": 0.8},
+      "pull": {"count": 13, "avg_timing": 0.36},
+      "hook": {"count": 13, "avg_timing": 0.53}
+    },
+    "weak_zones": ["pull", "cover_drive"]
+  },
+  {
+    "player_id": "P03",
+    "shots_faced": 121,
+    "favourite_shot": "hook",
+    "avg_bat_speed_kmh": 93.2,
+    "timing_consistency": 0.64,
+    "shot_breakdown": {
+      "hook": {"count": 27, "avg_timing": 0.49},
+      "straight_drive": {"count": 30, "avg_timing": 0.7},
+      "cut": {"count": 37, "avg_timing": 0.54},
+      "flick": {"count": 16, "avg_timing": 0.76},
+      "cover_drive": {"count": 11, "avg_timing": 0.73}
+    },
+    "weak_zones": ["hook", "cut"]
+  },
+  {
+    "player_id": "P04",
+    "shots_faced": 84,
+    "favourite_shot": "straight_drive",
+    "avg_bat_speed_kmh": 90.5,
+    "timing_consistency": 0.58,
+    "shot_breakdown": {
+      "hook": {"count": 24, "avg_timing": 0.71},
+      "cover_drive": {"count": 21, "avg_timing": 0.41},
+      "straight_drive": {"count": 21, "avg_timing": 0.44},
+      "cut": {"count": 18, "avg_timing": 0.76}
+    },
+    "weak_zones": ["cover_drive", "straight_drive"]
+  },
+  {
+    "player_id": "P05",
+    "shots_faced": 110,
+    "favourite_shot": "flick",
+    "avg_bat_speed_kmh": 93.3,
+    "timing_consistency": 0.64,
+    "shot_breakdown": {
+      "sweep": {"count": 24, "avg_timing": 0.55},
+      "flick": {"count": 39, "avg_timing": 0.72},
+      "cover_drive": {"count": 27, "avg_timing": 0.44},
+      "hook": {"count": 20, "avg_timing": 0.85}
+    },
+    "weak_zones": ["cover_drive", "sweep"]
+  }
+]

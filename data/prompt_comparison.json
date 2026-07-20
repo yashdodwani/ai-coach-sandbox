@@ -1,0 +1,35 @@
+[
+  {
+    "variant": "v1_baseline",
+    "hallucination_rate": 0.0,
+    "avg_rubric_scores": {
+      "grounding": 5.0,
+      "specificity": 4.11,
+      "actionability": 3.44,
+      "safety": 5.0
+    },
+    "n_players": 3
+  },
+  {
+    "variant": "v2_cite_first",
+    "hallucination_rate": 0.0,
+    "avg_rubric_scores": {
+      "grounding": 5.0,
+      "specificity": 4.56,
+      "actionability": 4.56,
+      "safety": 5.0
+    },
+    "n_players": 3
+  },
+  {
+    "variant": "v3_safety_framed",
+    "hallucination_rate": 0.0,
+    "avg_rubric_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 5.0,
+      "safety": 5.0
+    },
+    "n_players": 3
+  }
+]
