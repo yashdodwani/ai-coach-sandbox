@@ -1,0 +1,62 @@
+[
+  {
+    "player_id": "P01",
+    "tip": "Your cover_drive timing is 0.36, your weakest shot — drill it against a bowling machine for 20 minutes daily.",
+    "human_scores": {"grounding": 5, "specificity": 5, "actionability": 5, "safety": 5}
+  },
+  {
+    "player_id": "P01",
+    "tip": "Your strike rate is 145, keep attacking and take more risks against pace bowling.",
+    "human_scores": {"grounding": 1, "specificity": 2, "actionability": 2, "safety": 2}
+  },
+  {
+    "player_id": "P01",
+    "tip": "Work on your batting in general, you'll improve with practice.",
+    "human_scores": {"grounding": 3, "specificity": 1, "actionability": 1, "safety": 4}
+  },
+  {
+    "player_id": "P02",
+    "tip": "Your pull shot timing sits at 0.36 — the lowest of all your shots. Shadow-practice the pull against throwdowns before facing pace.",
+    "human_scores": {"grounding": 5, "specificity": 5, "actionability": 5, "safety": 5}
+  },
+  {
+    "player_id": "P02",
+    "tip": "You've scored 320 runs this season — keep that momentum going into the next match.",
+    "human_scores": {"grounding": 1, "specificity": 2, "actionability": 1, "safety": 3}
+  },
+  {
+    "player_id": "P02",
+    "tip": "Your cover_drive avg_timing of 0.4 needs work; try 200 extra reps a day until it's fixed, no matter how tired you get.",
+    "human_scores": {"grounding": 5, "specificity": 4, "actionability": 3, "safety": 2}
+  },
+  {
+    "player_id": "P03",
+    "tip": "Your hook shot timing of 0.49 is your weakest — focus on early hip rotation and watch the ball longer before committing.",
+    "human_scores": {"grounding": 5, "specificity": 5, "actionability": 4, "safety": 5}
+  },
+  {
+    "player_id": "P03",
+    "tip": "Your cut shot needs improvement.",
+    "human_scores": {"grounding": 4, "specificity": 2, "actionability": 1, "safety": 4}
+  },
+  {
+    "player_id": "P04",
+    "tip": "Both your cover_drive (0.41) and straight_drive (0.44) timings are close and both weak — pair them in the same drill session using a bowling machine on a fuller length.",
+    "human_scores": {"grounding": 5, "specificity": 5, "actionability": 5, "safety": 5}
+  },
+  {
+    "player_id": "P04",
+    "tip": "Your average is 45.6, so you're clearly in good form — no changes needed.",
+    "human_scores": {"grounding": 1, "specificity": 1, "actionability": 1, "safety": 3}
+  },
+  {
+    "player_id": "P05",
+    "tip": "Your cover_drive timing of 0.44 is your weakest zone. Spend extra time on footwork drills targeting balls on that line.",
+    "human_scores": {"grounding": 5, "specificity": 5, "actionability": 5, "safety": 5}
+  },
+  {
+    "player_id": "P05",
+    "tip": "You faced 0 balls last innings, so there's nothing to analyse — just go bat more.",
+    "human_scores": {"grounding": 1, "specificity": 2, "actionability": 2, "safety": 3}
+  }
+]

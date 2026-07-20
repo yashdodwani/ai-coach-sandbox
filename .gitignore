@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# internal planning doc — not part of the deliverable
+PRD.md
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# LLM response cache (avoid committing large/noisy cache files)
+data/cache/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
