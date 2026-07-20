@@ -1,0 +1,802 @@
+[
+  {
+    "player_id": "P01",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.67,
+      "actionability": 4.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice is perfectly grounded in the provided stats and identifies a specific weakness with its exact timing value."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it could be more specific about the target timing improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice accurately uses the player's specific shot counts and timing values to provide a clear, data-driven target for improvement."
+      }
+    ]
+  },
+  {
+    "player_id": "P02",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.0,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it is relatively brief."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it is slightly generic in its instruction."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses the player's favorite shot and timing value, but it is generic and lacks a concrete training drill or corrective action."
+      }
+    ]
+  },
+  {
+    "player_id": "P03",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and uses the exact timing value from the profile, while providing a concrete area for improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the accurate timing value from the profile, though it lacks a specific drill to act upon."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses all provided statistics but offers generic direction to 'address' weaknesses rather than providing a concrete training drill or technical adjustment."
+      }
+    ]
+  },
+  {
+    "player_id": "P04",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.33,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the specific weak zone and timing value from the profile, though the suggested remedy (footwork) is somewhat generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice accurately uses the player's weak zone and timing data, though it is somewhat repetitive and lacks a specific drill to improve the timing."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the timing value for the cut shot, though it is somewhat generic in its instruction to 'continue using' a strength."
+      }
+    ]
+  },
+  {
+    "player_id": "P05",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and timing value from the profile, though the suggested remedy (footwork) is a bit generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the weak zone and uses the exact timing value from the profile, though it could be more specific about how to improve that timing."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly uses the hook timing and identifies the cover drive as a weakness, but 'tabilizing' is a vague instruction that lacks a concrete drill or technical adjustment."
+      }
+    ]
+  },
+  {
+    "player_id": "P06",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, while providing a concrete area for improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the pull shot's timing and weak zone status, but 'work on your timing' is a generic instruction rather than a concrete drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the straight drive's timing from the profile, though it is more of a reinforcement than a concrete training drill."
+      }
+    ]
+  },
+  {
+    "player_id": "P07",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.0,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the hook shot and its specific timing value from the profile, though the corrective action (footwork) is somewhat generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the specific timing value for the cover drive and provides a clear area for improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the pull shot timing and weak zones from the profile, but it offers generic instruction rather than a concrete drill or technical adjustment."
+      }
+    ]
+  },
+  {
+    "player_id": "P08",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the specific timing value and weak shot from the profile, though the suggested remedy (footwork) is a bit generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies a weak zone and uses the exact timing value from the profile, though it could be more specific about the nature of the timing issue."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the timing for the cut shot, but the suggestion to 'build rhythm' is a generic psychological tip rather than a concrete technical drill."
+      }
+    ]
+  },
+  {
+    "player_id": "P09",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.0,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the pull shot and its specific timing value from the profile, though the suggested remedy (footwork) is somewhat generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 2,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the player's cut shot count and weak zone status, but fails to provide a concrete drill or technical adjustment to improve it."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the cover_drive timing from the profile, though it is more of a reinforcement than a concrete training drill."
+      }
+    ]
+  },
+  {
+    "player_id": "P10",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 3.67,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the player's weakest timing metric and shot type, though the corrective action is slightly generic."
+      },
+      {
+        "grounding": 5,
+        "specificity": 3,
+        "actionability": 1,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the player's weak zone and timing value, but it merely states a fact without providing a concrete drill or solution."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The advice correctly identifies the sweep timing value from the profile and provides a clear area for improvement."
+      }
+    ]
+  },
+  {
+    "player_id": "P11",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.0,
+      "actionability": 2.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip correctly cites the cut shot's 0.65 avg_timing and weak-zone status from the profile, names a specific shot and issue but gives only a vague footwork fix."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip correctly cites the hook shot's weak-zone status and 0.75 timing from the profile but offers no concrete drill or practice method to improve it."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 1,
+        "safety": 5,
+        "rationale": "The tip accurately cites cut and flick timing from the profile but offers no concrete drill or action to improve the cut."
+      }
+    ]
+  },
+  {
+    "player_id": "P12",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's cut shot weak zone and 0.44 timing but offers only a generic footwork suggestion without a specific drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the flick's 0.46 timing and weak-zone status but offers only a vague directive to improve it without concrete drills."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep shot's 0.76 timing from the profile and is positive but offers only a vague instruction to maintain rather than a concrete practice plan."
+      }
+    ]
+  },
+  {
+    "player_id": "P13",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.67,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's pull shot weak zone and 0.39 timing stat, but offers only generic footwork advice without a concrete drill, though it remains constructive and safe."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cover_drive's weak-zone status and timing value but only vaguely advises focus without concrete drills, though it remains safe and constructive."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's favourite hook shot and its 0.87 timing, is specific and safe, but offers only a vague directive to keep relying on it rather than a concrete training action."
+      }
+    ]
+  },
+  {
+    "player_id": "P14",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the straight_drive weak zone and 0.34 avg_timing from the profile, references the specific shot and value, suggests concrete footwork practice, and is constructive and safe."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cut's favourite status, weak-zone classification, and 0.34 timing but lacks concrete drill guidance while remaining constructive."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's timing values for straight drive, cut, and flick, targets specific weak shots with a clear practice focus, and is constructive without harshness."
+      }
+    ]
+  },
+  {
+    "player_id": "P15",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's sweep timing of 0.35 and weak-zone status, and suggests constructive, safe footwork improvement for that specific shot."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cover_drive timing of 0.42 and weak-zone status while advising focused practice, though it lacks a concrete drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly references the cut shot's avg_timing of 0.86 from the profile and is positive, but offers only a vague instruction to maintain rather than a concrete practice action."
+      }
+    ]
+  },
+  {
+    "player_id": "P16",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.67,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's sweep weak zone and 0.44 timing stat, specifically identifies the shot and value, suggests actionable footwork improvement, and is constructive without harshness."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the hook shot's avg_timing of 0.55 and weak-zone status but offers only a vague directive to focus on it without concrete drills."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the straight_drive timing of 0.89 and names real weak shots but offers only vague direction to stabilize them without concrete drills."
+      }
+    ]
+  },
+  {
+    "player_id": "P17",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 3.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cut shot's weak-zone status and 0.42 timing from the profile, but offers only vague footwork improvement without a concrete drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip correctly identifies the hook shot's count of 31 and weak-zone listing but only vaguely advises to focus without suggesting concrete drills."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the pull shot's 0.93 timing from the profile and is specific and safe, but only advises maintenance without a concrete practice action."
+      }
+    ]
+  },
+  {
+    "player_id": "P18",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's pull shot timing of 0.35 and weak-zone status, references the specific shot type, suggests concrete footwork practice, and is constructive without harshness."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the flick's low timing value and weak-zone status but offers only a vague directive to focus without a concrete practice plan."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep's 0.86 timing but only vaguely advises continuing it without a concrete practice plan."
+      }
+    ]
+  },
+  {
+    "player_id": "P19",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.0,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's flick weak zone and timing value but lacks a concrete drill or method to improve it."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep timing of 0.56 from the profile and names a real weak-zone shot but offers only a vague directive without a concrete drill or method."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The advice correctly cites the player's cover_drive timing of 0.91 and is positive but offers no concrete drill or practice plan to act upon."
+      }
+    ]
+  },
+  {
+    "player_id": "P20",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the player's pull timing and weak zone but offers only a generic footwork focus without a specific drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep's 0.46 timing and weak-zone status, specifically targets that shot, but only advises generic practice without a concrete drill, though it remains constructive and safe."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cover_drive timing of 0.65 and names the specific shot, though it overstates consistency versus flick's 0.7 while remaining constructive and clear."
+      }
+    ]
+  },
+  {
+    "player_id": "P21",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 5,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep timing of 0.38 and weak zone status from the profile, specifies the sweep shot, advises concrete footwork practice, and is constructive and safe."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cut shot's weak-zone status and 0.43 timing but lacks a concrete drill or method to improve it."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the flick's 0.85 timing and suggests its continued use for strike rotation, but lacks a concrete training drill."
+      }
+    ]
+  },
+  {
+    "player_id": "P22",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the flick's avg_timing of 0.41 and weak-zone status but lacks a concrete drill for improvement."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip accurately cites the hook's 0.52 timing and weak-zone status with specific shot reference but offers only a vague directive to improve timing without a concrete drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the straight_drive timing from the profile and is specific and safe, but merely tells the player to maintain rather than prescribing a concrete practice action."
+      }
+    ]
+  },
+  {
+    "player_id": "P23",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.67,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The tip correctly uses the profile's cover_drive weak-zone and 0.33 timing, names the specific shot, but only vaguely suggests focus without a concrete drill, and is constructive and safe."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 3,
+        "safety": 5,
+        "rationale": "The advice correctly cites the flick's 0.37 avg timing and weak-zone status, is specific to that shot, but offers only a vague directive to improve without a concrete drill, while remaining constructive."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip accurately cites the straight_drive timing stat but only advises maintenance without a concrete practice action."
+      }
+    ]
+  },
+  {
+    "player_id": "P24",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 4.67,
+      "actionability": 3.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the sweep's weak-zone status and 0.57 timing from the profile, names the specific shot and value, suggests footwork practice, and is constructive without harshness."
+      },
+      {
+        "grounding": 5,
+        "specificity": 4,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip correctly identifies the flick as both favourite and weak zone but gives only a vague consistency goal without concrete drills or cited values."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the cover_drive's 0.81 avg_timing from the profile and advises leveraging that strength, making it grounded, specific, actionable, and safe."
+      }
+    ]
+  },
+  {
+    "player_id": "P25",
+    "avg_scores": {
+      "grounding": 5.0,
+      "specificity": 5.0,
+      "actionability": 2.33,
+      "safety": 5.0
+    },
+    "per_tip_scores": [
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 2,
+        "safety": 5,
+        "rationale": "The tip correctly references the player's straight_drive weak zone and 0.53 avg timing but only vaguely recommends footwork work without a concrete drill."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 1,
+        "safety": 5,
+        "rationale": "The tip accurately cites the hook as favourite and weak zone with timing 0.61 but provides only an observation and no concrete action to take."
+      },
+      {
+        "grounding": 5,
+        "specificity": 5,
+        "actionability": 4,
+        "safety": 5,
+        "rationale": "The tip accurately cites the flick's 0.83 timing and specifically targets straight_drive improvement, offering a clear measurable goal but lacking a prescribed drill."
+      }
+    ]
+  }
+]
