@@ -1,0 +1,202 @@
+[
+  {
+    "player_id": "P01",
+    "tips": [
+      "Focus on your cover_drive, as it is a weak_zone with an avg_timing of only 0.36.",
+      "Work on your pull shot to address it as a weak_zone, currently sitting at an avg_timing of 0.57.",
+      "Improve your timing on the pull shot, which you play 28 times, to bring it closer to your straight_drive timing of 0.74."
+    ]
+  },
+  {
+    "player_id": "P02",
+    "tips": [
+      "Focus on your pull shot, as it is one of your weak_zones with an avg_timing of only 0.36.",
+      "Work on your cover_drive to address your weak_zones, currently sitting at an avg_timing of 0.4.",
+      "Continue refining your sweep shot, which is your favourite shot with a strong avg_timing of 0.82."
+    ]
+  },
+  {
+    "player_id": "P03",
+    "tips": [
+      "Your hook is a weak zone and has an avg_timing of only 0.49; focus on improving your footwork for this shot.",
+      "You need to work on your cut shot as it is listed in your weak_zones and has an avg_timing of 0.54.",
+      "While your straight_drive is strong with an avg_timing of 0.7, you must address the hook and cut to improve your overall timing_consistency of 0.64."
+    ]
+  },
+  {
+    "player_id": "P04",
+    "tips": [
+      "Your cover_drive is a weak_zone with an avg_timing of 0.41; focus on improving your footwork.",
+      "Work on your straight_drive as it is a weak_zone and has an avg_timing of only 0.44.",
+      "Your cut shot is highly effective with an avg_timing of 0.76, so continue using that strength."
+    ]
+  },
+  {
+    "player_id": "P05",
+    "tips": [
+      "Your cover_drive is a weak_zone with an avg_timing of only 0.44; you need to work on your footwork to improve this.",
+      "Focus on your sweep shots as they are listed in your weak_zones and currently have an avg_timing of 0.55.",
+      "While your hook has a great avg_timing of 0.85, you should focus on stabilizing your cover_drive to balance your game."
+    ]
+  },
+  {
+    "player_id": "P06",
+    "tips": [
+      "Your hook shot is a weak zone with an avg_timing of only 0.44; focus on improving your footwork to stabilize this.",
+      "Even though the pull is your favourite shot, it is listed as a weak zone with an avg_timing of 0.5; work on your timing.",
+      "Your straight_drive is your most consistent shot with an avg_timing of 0.67; continue using this to anchor your innings."
+    ]
+  },
+  {
+    "player_id": "P07",
+    "tips": [
+      "Your hook shot is your weakest zone with an avg_timing of only 0.37; we need to work on your footwork to improve this.",
+      "Focus on your cover_drive timing, which is currently 0.56, to turn it into a more reliable scoring option.",
+      "While your pull shot is strong with an avg_timing of 0.95, you must address the weaknesses in your hook and cover_drive to stabilize your innings."
+    ]
+  },
+  {
+    "player_id": "P08",
+    "tips": [
+      "Your cover_drive timing is 0.47, which is your weakest shot; focus on improving your footwork to stabilize this area.",
+      "Work on your pull shot, as it is listed in your weak_zones and currently has an avg_timing of 0.52.",
+      "You are highly efficient with your cut shot at 0.93 timing, so use that confidence to build rhythm during your innings."
+    ]
+  },
+  {
+    "player_id": "P09",
+    "tips": [
+      "Your pull shot is a weak zone with an avg_timing of only 0.43; we need to work on your footwork.",
+      "Focus on improving your cut shot, as it is listed in your weak_zones despite having a count of 37.",
+      "Maintain your cover_drive timing of 0.8, as it is your most consistent shot execution."
+    ]
+  },
+  {
+    "player_id": "P10",
+    "tips": [
+      "Your flick is a major weak zone with an avg_timing of only 0.34; we need to work on your wrist work.",
+      "Even though the pull is your favourite shot, it is a weak zone with an avg_timing of 0.46.",
+      "Focus on improving your timing for the sweep, which currently sits at 0.5."
+    ]
+  },
+  {
+    "player_id": "P11",
+    "tips": [
+      "Your cut shot is one of your weak_zones with an avg_timing of only 0.65; we need to work on your footwork.",
+      "Focus on improving your hook shot, as it is listed in your weak_zones despite having an avg_timing of 0.75.",
+      "Even though your favourite_shot is the cut, its timing of 0.65 is much lower than your flick timing of 0.93."
+    ]
+  },
+  {
+    "player_id": "P12",
+    "tips": [
+      "Your cut shot is a weak zone and has an avg_timing of only 0.44; focus on improving your footwork.",
+      "Work on your flick timing, as it is currently at 0.46 and identified as a weak zone.",
+      "Maintain your high avg_timing of 0.76 on your sweep shots to keep your scoring momentum."
+    ]
+  },
+  {
+    "player_id": "P13",
+    "tips": [
+      "Your pull shot is a weak zone with an avg_timing of only 0.39; you need to work on your footwork to improve this.",
+      "Focus on your cover_drive as it is listed in your weak_zones and currently has an avg_timing of 0.61.",
+      "Continue to rely on your hook shot, as it is your favourite shot and shows a high avg_timing of 0.87."
+    ]
+  },
+  {
+    "player_id": "P14",
+    "tips": [
+      "Your straight_drive is a weak_zone with an avg_timing of only 0.34; focus on improving your footwork to stabilize this shot.",
+      "Even though the cut is your favourite_shot, it is a weak_zone with an avg_timing of 0.34 that needs immediate technical attention.",
+      "Work on your timing for the straight_drive and cut, as both currently sit at 0.34, which is significantly lower than your flick timing of 0.94."
+    ]
+  },
+  {
+    "player_id": "P15",
+    "tips": [
+      "Your sweep timing is only 0.35, which is a weak zone; focus on improving your footwork for this shot.",
+      "Work on your cover_drive timing, as it is currently at 0.42 and listed as a weak zone.",
+      "Maintain your high level of precision on the cut shot, which is your strongest with an avg_timing of 0.86."
+    ]
+  },
+  {
+    "player_id": "P16",
+    "tips": [
+      "Your sweep is a weak zone and has an avg_timing of only 0.44; we need to work on your footwork.",
+      "Focus on your hook shot to address it as a weak zone, as its avg_timing is currently 0.55.",
+      "While your straight_drive is strong with an avg_timing of 0.89, you must stabilize your sweep and hook to improve overall consistency."
+    ]
+  },
+  {
+    "player_id": "P17",
+    "tips": [
+      "Your cut shot is a weak zone with an avg_timing of only 0.42; you need to work on your footwork to improve this.",
+      "Focus on your hook shot, as it is listed in your weak_zones despite having a count of 31.",
+      "Maintain your pull shot efficiency, which is currently your strongest timing at 0.93."
+    ]
+  },
+  {
+    "player_id": "P18",
+    "tips": [
+      "Your pull shot is a weak zone with an avg_timing of 0.35; we need to work on your footwork to improve this.",
+      "Focus on your flick shot, as it is a weak zone with an avg_timing of only 0.38.",
+      "Continue leaning into your favourite shot, the sweep, which shows a strong avg_timing of 0.86."
+    ]
+  },
+  {
+    "player_id": "P19",
+    "tips": [
+      "Focus on your flick, as it is one of your weak_zones and has a low avg_timing of 0.51.",
+      "Work on your sweep timing, which is currently at 0.56, to address your other weak_zone.",
+      "Maintain your excellent cover_drive timing of 0.91 to keep your scoring momentum high."
+    ]
+  },
+  {
+    "player_id": "P20",
+    "tips": [
+      "Your pull timing is only 0.4, which is one of your weak_zones; focus on improving your footwork.",
+      "Work on your sweep timing, as it is currently 0.46 and listed in your weak_zones.",
+      "Maintain your cover_drive timing of 0.65, as it is your most consistent high-value shot."
+    ]
+  },
+  {
+    "player_id": "P21",
+    "tips": [
+      "Your sweep timing is only 0.38, which is a weak zone; focus on improving your footwork for this shot.",
+      "Work on your cut shot as it is listed in your weak zones and currently has an avg_timing of 0.43.",
+      "Your flick is your strongest shot with an avg_timing of 0.85, so continue to use it to rotate strike."
+    ]
+  },
+  {
+    "player_id": "P22",
+    "tips": [
+      "Focus on improving your flick, as it is one of your weak_zones and has a low avg_timing of 0.41.",
+      "Work on your hook shot timing; it is currently 0.52 and listed as a weak_zone.",
+      "Maintain your strong straight_drive timing of 0.71 to balance your play."
+    ]
+  },
+  {
+    "player_id": "P23",
+    "tips": [
+      "Focus on your cover_drive, as it is a weak_zone with an avg_timing of only 0.33.",
+      "Work on your flick timing, which is currently at 0.37 and identified as a weak_zone.",
+      "Maintain your high-quality straight_drive execution, which shows an excellent avg_timing of 0.93."
+    ]
+  },
+  {
+    "player_id": "P24",
+    "tips": [
+      "Your sweep is a weak zone and has an avg_timing of only 0.57; you need to work on your footwork to improve this.",
+      "Even though the flick is your favourite shot, it is listed as a weak zone, so focus on increasing its consistency.",
+      "Your cover_drive is much stronger with an avg_timing of 0.81, so continue to use that to build your innings."
+    ]
+  },
+  {
+    "player_id": "P25",
+    "tips": [
+      "Your straight_drive is a weak_zone and has an avg_timing of only 0.53; we need to work on your footwork.",
+      "Even though the hook is your favourite_shot, it is listed as a weak_zone with an avg_timing of 0.61.",
+      "Focus on improving your timing for the straight_drive to bring it closer to your flick timing of 0.83."
+    ]
+  }
+]

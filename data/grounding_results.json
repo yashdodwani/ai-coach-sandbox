@@ -1,0 +1,684 @@
+{
+  "total_players_checked": 25,
+  "fully_grounded_count": 25,
+  "hallucination_rate": 0.0,
+  "per_player": [
+    {
+      "player_id": "P01",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.36
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.57
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            28.0,
+            0.74
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P02",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.36
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.4
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.82
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P03",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.49
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.54
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.7,
+            0.64
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P04",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.41
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.44
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.76
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P05",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.44
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.55
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.85
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P06",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.44
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.5
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.67
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P07",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.37
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.56
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.95
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P08",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.47
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.52
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.93
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P09",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.43
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            37.0
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.8
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P10",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.34
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.46
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.5
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P11",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.65
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.75
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.65,
+            0.93
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P12",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.44
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.46
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.76
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P13",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.39
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.61
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.87
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P14",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.34
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.34
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.34,
+            0.94
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P15",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.35
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.42
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.86
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P16",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.44
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.55
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.89
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P17",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.42
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            31.0
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.93
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P18",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.35
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.38
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.86
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P19",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.51
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.56
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.91
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P20",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.4
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.46
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.65
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P21",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.38
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.43
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.85
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P22",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.41
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.52
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.71
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P23",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.33
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.37
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.93
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P24",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.57
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.81
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    },
+    {
+      "player_id": "P25",
+      "all_grounded": true,
+      "tip_results": [
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.53
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.61
+          ],
+          "hallucinated_numbers": []
+        },
+        {
+          "grounded": true,
+          "cited_numbers": [
+            0.83
+          ],
+          "hallucinated_numbers": []
+        }
+      ]
+    }
+  ]
+}
