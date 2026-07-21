@@ -1,13 +1,5 @@
 """
 Streamlit frontend for the AI Coach Sandbox.
-
-This is a thin UI layer only — it makes HTTP requests to the FastAPI
-backend (demo/backend.py) and displays the results. No pipeline logic
-lives here.
-
-Run (two terminals):
-    uvicorn demo.backend:app --reload --port 8000
-    streamlit run demo/app.py
 """
 
 import os

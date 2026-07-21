@@ -1,12 +1,6 @@
 """
 FastAPI backend for the AI Coach Sandbox.
 
-Wraps the existing src/ logic (coach, grounding, rubric) behind HTTP
-endpoints so the Streamlit app becomes a thin frontend that just makes
-requests, instead of importing pipeline code directly.
-
-Run:
-    uvicorn demo.backend:app --reload --port 8000
 """
 
 import json

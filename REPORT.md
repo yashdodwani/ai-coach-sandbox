@@ -5,7 +5,7 @@ The pipeline generates synthetic cricket‑player profiles, sends each profile t
 
 ## 2. Prompt patterns that worked
 - **Winner:** `v3_safety_framed` (identified as `WINNING_PROMPT`).
-- **Why:** Across all 25 players it achieved a hallucination rate of **0 %** (same as other variants) but attained perfect scores on grounding and safety, and the highest average scores on specificity (**5.0**) and actionability (**5.0**) in the prompt‑comparison run. The safety‑framed wording encourages constructive language while still extracting numeric evidence, which boosted the rubric dimensions.
+- **Why:** Across all 25 players it achieved a hallucination rate of **0 %** (same as other variants) but attained perfect scores on grounding and safety, and the highest average scores on specificity  and actionability  in the prompt‑comparison run. The safety‑framed wording encourages constructive language while still extracting numeric evidence, which boosted the rubric dimensions.
 
 ## 3. Evaluation methodology
 - **Grounding check:** extracts every numeric token from the coach output, compares to the player profile with a tolerance of ±0.01. All 25 profiles had every cited number present → hallucination rate 0.0.
